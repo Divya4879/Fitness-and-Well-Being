@@ -26,3 +26,9 @@ Thank you.
 # These are the guidelines for middle aged women
 ![Screenshot (1024)](https://user-images.githubusercontent.com/86043076/177024464-b9f88d3b-ff8e-48bd-aec8-2a1747447385.png)
 # These are the exercise guidelines for women above 45 years of age
+
+# This is my vs code azure static web app deploy proof
+
+![Screenshot (1024)](https://user-images.githubusercontent.com/86043076/177024686-dd59a43d-56c6-431b-a051-1e9732420ae7.png)
+
+# Thank you
