@@ -7,8 +7,8 @@ In this project I have used these 2 services-
 1)Azure VS Code
 2)Azure Static Web Apps
 Thank you.
-## MY PROJECT LINK- https://divya4879.github.io/DIVYA-MicrosoftVirtualInternshipProject
-## YOUTUBE VIDEO LINK WHICH I HAVE MADE FOR THIS PROJECT- https://youtu.be/S93UGRgiklM
+## MY PROJECT LINK- https://kind-grass-0c7990810.1.azurestaticapps.net
+## YOUTUBE VIDEO LINK WHICH I HAVE MADE FOR THIS PROJECT- https://youtu.be/87TDk17hX8w
 # These are the screenshots of my website
 ![Screenshot (1017)](https://user-images.githubusercontent.com/86043076/177024368-2416bd12-2433-4c12-b8a6-02b5efaa3290.png)
  # homepage
